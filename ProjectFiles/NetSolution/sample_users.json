@@ -1,0 +1,32 @@
+[
+    {
+        "BrowseName": "operator1",
+        "Group": "Operators",
+        "Password": "Operator123!",
+        "LocaleId": "en-US"
+    },
+    {
+        "BrowseName": "operator2",
+        "Group": "Operators",
+        "Password": "Operator456!",
+        "LocaleId": "en-US"
+    },
+    {
+        "BrowseName": "supervisor1",
+        "Group": "Supervisors",
+        "Password": "Supervisor123!",
+        "LocaleId": "en-US"
+    },
+    {
+        "BrowseName": "admin_user",
+        "Group": "Administrators",
+        "Password": "Admin@2026!",
+        "LocaleId": "it-IT"
+    },
+    {
+        "BrowseName": "maintenance_tech",
+        "Group": "Maintenance",
+        "Password": "Maint789!",
+        "LocaleId": "en-US"
+    }
+]

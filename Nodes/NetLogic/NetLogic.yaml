@@ -1,0 +1,17 @@
+Name: NetLogic
+Type: NetLogicCategoryFolder
+Children:
+- Name: UsersManagement
+  Id: g=f1d9850ac5bacc6f025ba697752ace1c
+  Type: NetLogic
+  Children:
+  - Name: JsonUri
+    Type: BaseDataVariableType
+    DataType: ResourceUri
+    Value: "ns=14;%PROJECTDIR%/users.json"
+  - Class: Method
+    Name: GenerateUsersFromJson
+  - Name: UserImportFeedback
+    Id: g=0d7b2df3477148e8d1c76032f0e26a31
+    Type: BaseDataVariableType
+    DataType: String

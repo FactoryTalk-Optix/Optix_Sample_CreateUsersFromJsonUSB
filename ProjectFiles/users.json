@@ -1,0 +1,32 @@
+[
+	{
+		"Browsename": "Bob",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+	{
+		"Browsename": "John",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+	{
+		"Browsename": "Bernard",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+	{
+		"Browsename": "Mark",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+	{
+		"Browsename": "Success",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+	{
+		"Browsename": "Paul",
+		"Group": "Operators",
+		"Password": "Password01"
+	},
+]
